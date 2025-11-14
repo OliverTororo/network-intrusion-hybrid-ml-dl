@@ -1,4 +1,4 @@
-# 🛡️ IDS Hybrid Pipeline — CICIDS2017 (Multiclass + SMOTE Full)
+# 🛡️ IDS Hybrid Pipeline
 
 ## 📄 Notebook: `ids_hybrid_pipeline_colab_full_smote.ipynb`
 
